@@ -32,5 +32,5 @@ Prof. Dr. Saron Catak
 Department of Chemistry
 Bogazici University
 Bebek 34342 Istanbul, Turkiye
-https://ccbg.bogazici.edu.tr/
 saron.catak@bogazici.edu.tr
+https://ccbg.bogazici.edu.tr/
