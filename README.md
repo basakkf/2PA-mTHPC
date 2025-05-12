@@ -23,7 +23,7 @@ bioRxiv,  https://doi.org/10.1101/2025.05.02.651861.
 
 ## ⚖️ License
 
-This dataset is shared for academic and research use only. Redistribution or commercial use is not permitted without explicit permission from the authors. Please refer to the license file (if included) or contact the maintainers for clarification.
+This dataset is shared for academic and research use only. Redistribution or commercial use is not permitted without explicit permission from the authors. Please contact the maintainers for clarification.
 
 ## 📬 Contact
 
