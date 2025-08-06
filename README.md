@@ -18,8 +18,7 @@ These conformations were optimized and validated through computational chemistry
 
 If you use this dataset, please cite the original article:
 
-**"Rational Molecular Design of Two-Photon Activated Temoporfin: A Computational Study for Advanced Photodynamic Therapy"**  
-bioRxiv,  https://doi.org/10.1101/2025.05.02.651861.
+**"Rational Molecular Design of Two-Photon Activated Temoporfin: A Computational Study for Advanced Photodynamic Therapy"** Findik, B. K., Uyar, E. S., Monari, A., Catak, S. Physical Chemistry Chemical Physics, 27, 14379-14390, 2025. https://pubs.rsc.org/en/content/articlelanding/2025/cp/d5cp01775k.
 
 ## ⚖️ License
 
